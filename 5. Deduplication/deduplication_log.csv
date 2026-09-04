@@ -1,0 +1,124 @@
+country,full_name,Symbol,Activity,Sector,first_obs,last_real,n_months,avg_mv,cluster,keep
+DE,Adler Real Estate,D:ADL,Dead,Real Estate Investment and Services,1996-01-01,2023-11-01,334.0,280.0149253731343,0,True
+DE,Adler Real Estate,D:ADLN,Dead,Real Estate Investment and Services,2017-02-01,2017-06-01,4.0,,0,False
+DE,Aixtron,D:AIXA,Active,Technology Hardware and Equipment,1997-12-01,2025-12-01,336.0,1370.840652818991,0,True
+DE,Aixtron,8784J9,Dead,Technology Hardware and Equipment,2014-04-01,2014-06-01,2.0,,0,False
+DE,Allianz E,9237ZR,Dead,Non-life Insurance,2018-02-01,2018-06-01,4.0,,0,True
+DE,Allianz E,93834J,Dead,Non-life Insurance,2019-02-01,2019-06-01,4.0,3422.028,1,True
+DE,Bayer E,D:BAY1,Dead,Pharmaceuticals and Biotechnology,2018-02-01,2018-06-01,4.0,,0,True
+DE,Bayer E,D:BAYM,Dead,Pharmaceuticals and Biotechnology,2017-02-01,2017-05-01,3.0,,1,True
+DE,Brenntag,D:BNR,Active,Chemicals,2010-04-01,2025-12-01,188.0,7657.457301587301,0,True
+DE,Brenntag,2922X2,Dead,Chemicals,2017-02-01,2017-07-01,5.0,4937.666666666667,0,False
+DE,CS PCC,D:CCW1,Dead,Open End and Miscellaneous Investment Vehicles,2009-09-01,2014-03-01,54.0,,0,True
+DE,CS PCC,67872U,Dead,Open End and Miscellaneous Investment Vehicles,2009-09-01,2012-06-01,33.0,,0,False
+DE,Commerzbank,D:CBK,Active,Banks,1996-01-01,2025-12-01,359.0,11817.776166666667,0,True
+DE,Commerzbank,D:LFHA,Dead,Banks,2008-07-01,2008-08-01,1.0,,0,False
+DE,Deutsche Cannabis,D:HEMP,Dead,Software and Computer Services,2000-09-01,2021-10-01,253.0,3.8389370078740157,0,True
+DE,Deutsche Cannabis,D:FAM2,Dead,Software and Computer Services,2017-01-01,2021-10-01,57.0,0.5493023255813954,0,False
+DE,Deutsche Postbank,D:DPB,Dead,Banks,2004-07-01,2016-01-01,138.0,6935.055035971223,0,True
+DE,Essential Invest GMBH and Company KGaA,D:ES3A,Dead,Investment Banking and Brokerage Services,2006-02-01,2010-08-01,54.0,484.4563636363636,0,True
+DE,Essential Invest GMBH and Company KGaA,51897R,Dead,Investment Banking and Brokerage Services,2008-05-01,2010-12-01,31.0,0.68125,0,False
+DE,Eurohypo,D:EHY,Dead,Banks,1996-01-01,2008-08-01,151.0,4145.145460526316,0,True
+DE,Eurohypo,929109,Dead,Banks,1996-01-01,2002-09-01,80.0,1515.545925925926,0,False
+DE,Feedback,D:FEE,Dead,Investment Banking and Brokerage Services,2000-07-01,2006-04-01,69.0,8.450142857142858,0,True
+DE,Feedback,D:FEE1,Dead,Investment Banking and Brokerage Services,2006-04-01,2016-04-01,120.0,10.62694214876033,1,True
+DE,IQ International,D:IQL,Active,Automobiles and Parts,2015-03-01,2025-12-01,129.0,13.813846153846153,0,True
+DE,IQ International,D:IQL1,Active,Automobiles and Parts,2020-10-01,2025-10-01,60.0,26.988196721311475,0,False
+DE,Joyou,D:JY8,Dead,Construction and Materials,2010-04-01,2016-07-01,75.0,221.21776315789472,0,True
+DE,Joyou,D:JY8V,Dead,Construction and Materials,2013-12-01,2014-01-01,1.0,,0,False
+DE,Kontron,D:KBC,Dead,Technology Hardware and Equipment,2000-05-01,2017-09-01,208.0,452.6659330143541,0,True
+DE,Kontron,D:KTN,Active,Software and Computer Services,2000-12-01,2025-12-01,300.0,506.39677740863783,1,True
+DE,LHS,D:LHS,Dead,Software and Computer Services,2006-11-01,2010-03-01,40.0,424.19975609756096,0,True
+DE,LHS,D:LHS1,Dead,Software and Computer Services,2007-08-01,2007-09-01,1.0,,0,False
+DE,R Stahl,D:RSL2,Active,Electronic and Electrical Equipment,1997-08-01,2025-12-01,340.0,140.29410557184752,0,True
+DE,R Stahl,D:RSL3,Dead,Technology Hardware and Equipment,2014-06-01,2014-07-01,1.0,270.5,1,True
+DE,Rapid Nutrition (Frankfurt),D:RNP,Dead,Food Producers,2021-07-01,2021-09-01,2.0,1.38,0,True
+DE,Rapid Nutrition (Frankfurt),D:RNPI,Dead,Food Producers,2014-07-01,2016-05-01,22.0,52.08173913043478,1,True
+DE,SGL Carbon E,D:SGLA,Dead,Industrial Metals and Mining,2019-03-01,2019-05-01,2.0,,0,True
+DE,SGL Carbon E,D:SGLN,Dead,Industrial Metals and Mining,2015-02-01,2015-04-01,2.0,,1,True
+DE,Sai Automotive,D:SAI,Dead,Automobiles and Parts,1996-01-01,2004-08-01,103.0,526.8558653846154,0,True
+DE,Sai Automotive,D:SAI7,Dead,Automobiles and Parts,1997-05-01,1998-07-01,14.0,50.37928571428572,0,False
+DE,Varta,D500100,Dead,Food Producers,1996-01-01,2012-10-01,201.0,186.3558910891089,0,True
+DE,Varta,D:VAR1,Dead,Food Producers,2017-11-01,2025-04-01,89.0,2250.663111111111,1,True
+DE,Viag,729407,Dead,General Industrials,1996-01-01,2000-07-01,54.0,11551.659454545455,0,True
+DE,Viag,D:VIA1,Dead,General Industrials,1996-01-01,1997-12-01,23.0,6459.916666666667,0,False
+DE,Weng Fine Art,86624J,Dead,Consumer Services,2012-01-01,2016-07-01,54.0,25.961272727272725,0,True
+DE,Weng Fine Art,D:WFA,Active,Consumer Services,2018-06-01,2025-12-01,90.0,51.28857142857143,1,True
+ES,ACS Actividades Construccion y Servicios,E:ACS,Active,Construction and Materials,1996-01-01,2025-12-01,359.0,7458.406277777777,0,True
+ES,AP67,E:AP61,Dead,Real Estate Investment and Services,2019-11-01,2025-08-01,69.0,40.50742857142857,0,True
+ES,AP67,E:AP67,Dead,Real Estate Investment and Services,2018-06-01,2019-08-01,14.0,36.16133333333333,1,True
+ES,Aguas de Barcelona,E:AGS,Dead,"Gas, Water and Multi-utilities",1996-01-01,2010-06-01,173.0,2308.9948275862066,0,True
+ES,Aguas de Barcelona,E:AGSB,Dead,"Gas, Water and Multi-utilities",2004-01-01,2004-07-01,6.0,7.984285714285714,0,False
+ES,Commcenter,E:CMM,Dead,Telecommunications Service Providers,2011-01-01,2025-07-01,174.0,12.4692,0,True
+ES,Commcenter,E:COMM,Active,Telecommunications Service Providers,2025-07-01,2025-09-01,2.0,11.793333333333335,1,True
+ES,Inhome Prime Properties Socimi,E:IPP1,Active,Real Estate Investment and Services,2025-08-01,2025-12-01,4.0,28.97,0,True
+ES,Inhome Prime Properties Socimi,E:IPPS,Dead,Real Estate Investment and Services,2022-08-01,2025-01-01,29.0,17.622666666666664,1,True
+ES,Metrovacesa,E:METR,Active,Household Goods and Home Construction,2018-03-01,2025-12-01,93.0,1305.76085106383,0,True
+ES,Metrovacesa,E:MVC,Dead,Real Estate Investment and Services,1996-01-01,2013-06-01,209.0,2349.1236666666664,1,True
+ES,Parques Reunidos,E:PAR,Dead,Travel and Leisure,2016-05-01,2019-12-01,43.0,1100.6327272727274,0,True
+ES,Parques Reunidos,E:PQR,Dead,Travel and Leisure,1999-06-01,2004-01-01,55.0,114.59625000000001,1,True
+FR,Assystem,F:ASS,Dead,Industrial Engineering,1996-01-01,2004-05-01,100.0,223.90247524752476,0,True
+FR,Assystem,F:BRIM,Active,Construction and Materials,1999-11-01,2025-12-01,313.0,384.0833439490446,1,True
+FR,BAC Majestic,F:BACH,Dead,Media,2000-07-01,2010-12-01,125.0,24.63174603174603,0,True
+FR,BAC Majestic,F:BST,Dead,Media,2011-02-01,2015-11-01,57.0,1.1220689655172413,1,True
+FR,Bollore New,F:BOL1,Dead,Media,2019-11-01,2020-07-01,8.0,11.961111111111112,0,True
+FR,Bollore New,F:BOLN,Dead,Media,2018-11-01,2019-06-01,7.0,9.08125,1,True
+FR,Bollore,F:MATI,Active,Media,1996-01-01,2025-12-01,359.0,6586.717916666667,1,True
+FR,Bollore,F:BOL2,Dead,Media,2024-04-01,2024-07-01,3.0,15.215,1,False
+FR,Bollore,F:BOLL,Dead,Media,2022-04-01,2022-06-01,2.0,13.193333333333333,1,False
+FR,Bollore,F:BT,Dead,Industrial Transportation,1996-01-01,2006-10-01,129.0,1595.7150769230768,2,True
+FR,Bouygues New,F:BOU1,Dead,Construction and Materials,2020-03-01,2020-05-01,2.0,2.13,0,True
+FR,Bouygues New,F:BOU3,Dead,Construction and Materials,2022-04-01,2022-05-01,1.0,0.27,1,True
+FR,Bull,F:BULL,Dead,Software and Computer Services,1996-01-01,2015-01-01,228.0,605.8475982532751,0,True
+FR,Bull,916210,Dead,Software and Computer Services,1996-01-01,1996-02-01,1.0,609.3499999999999,0,False
+FR,Coface,276743,Dead,Non-life Insurance,2000-02-01,2004-06-01,52.0,917.7828301886792,0,True
+FR,Coface,F:COFA,Active,Non-life Insurance,2014-07-01,2025-12-01,137.0,1581.1418115942029,1,True
+FR,Crcam Atlantique Vendee,F:LAV,Active,Banks,2002-08-01,2025-12-01,280.0,122.94170818505339,0,True
+FR,Enensys,F:ALNN6,Active,Software and Computer Services,2018-06-01,2025-12-01,90.0,10.473956043956044,0,True
+FR,Enensys,F:MLE,Dead,Telecommunications Equipment,2006-03-01,2009-08-01,41.0,11.004523809523809,1,True
+FR,Euronext,F:ENX,Active,Investment Banking and Brokerage Services,2014-07-01,2025-12-01,137.0,6193.227391304348,0,True
+FR,Euronext,F:NXT,Dead,Investment Banking and Brokerage Services,2001-08-01,2008-06-01,82.0,5095.00265060241,1,True
+FR,Havas,F:HAV,Dead,Media,1996-01-01,2017-12-01,263.0,1903.577803030303,0,True
+FR,Havas,F:HVA,Dead,Media,1996-01-01,2001-11-01,70.0,6211.737605633803,0,False
+FR,Jacquet Metals,F:JCQ,Active,Industrial Metals and Mining,1996-01-01,2025-12-01,359.0,301.99805555555554,0,True
+FR,Jacquet Metals,F:JAC,Dead,Industrial Metals and Mining,1997-11-01,2010-09-01,154.0,61.76729032258065,0,False
+FR,Legrand,F:LGR,Dead,Technology Hardware and Equipment,1996-01-01,2003-10-01,93.0,3837.448085106383,0,True
+FR,Legrand,F:LRRS,Active,Electronic and Electrical Equipment,2006-05-01,2025-12-01,235.0,14192.713262711864,1,True
+FR,Millimages,F:MIL,Dead,Media,2011-02-01,2013-11-01,33.0,2.216176470588235,0,True
+FR,Millimages,F:MILL,Dead,Media,2001-07-01,2011-01-01,114.0,20.73078260869565,1,True
+FR,Orange,F:ORA,Active,Telecommunications Service Providers,1997-11-01,2025-12-01,337.0,45252.67828402367,0,True
+FR,Orange,258493,Dead,Telecommunications Service Providers,2001-03-01,2004-05-01,38.0,39067.554615384615,0,False
+FR,Overlap Groupe,F:OVG,Dead,Software and Computer Services,2000-07-01,2013-07-01,156.0,36.112675159235664,0,True
+FR,Overlap Groupe,F:ALOV,Dead,Software and Computer Services,2005-12-01,2008-01-01,25.0,18.965,0,False
+FR,Rexel,F:CDME,Dead,Industrial Support Services,1996-01-01,2005-03-01,110.0,2977.1594594594594,0,True
+FR,Rexel,F:RXL,Active,Electronic and Electrical Equipment,2007-05-01,2025-12-01,223.0,4453.098258928571,1,True
+FR,Risc Group NR,F:RSCN,Dead,Software and Computer Services,2007-12-01,2009-12-01,24.0,60.263999999999996,0,True
+FR,Risc Group NR,F:RSCR,Dead,Software and Computer Services,2011-04-01,2012-06-01,14.0,18.774,1,True
+FR,Safran,F:SGM,Active,Aerospace and Defense,1996-01-01,2025-12-01,359.0,23146.341,0,True
+FR,Safran,F:SAGP,Dead,Aerospace and Defense,1999-09-01,2000-04-01,7.0,5464.305,0,False
+FR,Sofitam,143588,Dead,Unclassified,1996-01-01,1997-01-01,12.0,408.8276923076923,0,True
+FR,Sofitam,936809,Dead,Unclassified,1996-01-01,1996-05-01,4.0,350.87399999999997,0,False
+FR,Sophia,F:IR@F,Dead,Real Estate Investment and Services,1996-01-01,2005-01-01,108.0,706.078990825688,0,True
+FR,Sophia,F:SFB,Dead,Real Estate Investment and Services,1996-01-01,2000-10-01,57.0,533.0484482758621,0,False
+IT,Aedes,I:AE,Active,Real Estate Investment and Services,1996-01-01,2025-12-01,359.0,146.05747222222223,0,True
+IT,Aedes,I:AEDE,Dead,Real Estate Investment Trusts,2019-01-01,2023-05-01,52.0,48.228113207547175,1,True
+IT,Banca Popolare Cremona,I:PCRE,Dead,Banks,1996-01-01,2004-05-01,100.0,335.9681188118812,0,True
+IT,Banca Popolare Cremona,I:PCR9,Dead,Banks,1999-02-01,1999-06-01,4.0,74.37,0,False
+IT,Calcemento,I:CAL,Dead,Construction and Materials,1996-01-01,2000-06-01,53.0,199.6625925925926,0,True
+IT,Calcemento,779009,Dead,Construction and Materials,1996-01-01,1997-01-01,12.0,169283.4853846154,0,False
+IT,Edison,I:EDN,Dead,"Gas, Water and Multi-utilities",1996-01-01,2012-10-01,201.0,4660.391782178218,0,True
+IT,Edison,I:EDS,Dead,Electricity,1996-01-01,2002-05-01,76.0,4848.201298701299,1,True
+IT,Guala Closures,I:GUAL,Dead,General Industrials,2005-12-01,2008-10-01,34.0,320.8342857142857,0,True
+IT,Guala Closures,I:SPAE,Dead,General Industrials,2018-01-01,2021-07-01,42.0,444.6227906976744,1,True
+IT,Italgas,929400,Dead,"Gas, Water and Multi-utilities",1996-01-01,2003-03-01,86.0,2981.69183908046,0,True
+IT,Italgas,I:IG,Active,"Gas, Water and Multi-utilities",2016-12-01,2025-12-01,108.0,4488.285045871559,1,True
+IT,Montedison,I:M,Dead,General Industrials,1996-01-01,2000-12-01,59.0,4051.325166666667,0,True
+IT,Parmalat,I:PAT,Dead,Food Producers,2005-11-01,2019-03-01,160.0,4125.753167701863,0,True
+IT,Parmalat,I:PRF,Dead,Food Producers,1996-01-01,2004-01-01,96.0,2066.0265979381443,1,True
+IT,Telecom Italia RNC,I:TIR,Dead,Telecommunications Service Providers,1996-01-01,2003-08-01,91.0,9834.718804347825,0,True
+IT,Telecom Italia RNC,I:SIPN,Dead,Telecommunications Service Providers,1996-01-01,1997-08-01,19.0,4536957.1,0,False
+IT,Telecom Italia,I:TIT,Active,Telecommunications Service Providers,1996-01-01,2025-12-01,359.0,12150.20511111111,0,True
+IT,Telecom Italia,I:TI,Dead,Telecommunications Service Providers,1996-01-01,2003-08-01,91.0,41468.62391304348,0,False
+IT,Telecom Italia,I:SIP,Dead,Telecommunications Service Providers,1996-01-01,1997-08-01,19.0,24401393.0,0,False
+IT,Toro,I:TO,Dead,Non-life Insurance,1996-01-01,2001-01-01,60.0,980.7424590163935,0,True
+IT,Toro,I:TORO,Dead,Non-life Insurance,2005-06-01,2007-01-01,19.0,3086.8435,1,True
